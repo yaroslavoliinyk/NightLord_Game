@@ -9,7 +9,7 @@ Created by Yaroslav Oliinyk*
 2. Unzip the repository in "*Downloads*" folder
 3. You'll have the following package: NightLord_Game-master
 4. Enter this package: "*cd ~/Downloads/NightLord_Game-master/*"
-5. Run the next command to extract the program: "*tar -xJf NightLord_Game.tar.xz*"
+5. Run the next command to extract the program: "*tar -xJf NightLord.tar.xz*"
 3. In order to run the program you need to install **Wine**
 4. Installation instruction: https://tecadmin.net/install-wine-on-ubuntu/
 5. Use the following command: *"cd ~/Downloads/NightLord_Game-master/NightLord/PROJECT2/bin/Release/"*
